@@ -7,6 +7,8 @@ _ça c'est la question que je me pose à l'occasion mais l'élément central c'e
 
 _____________________________
 
+_Du coup, nouvelle question, qu'est-ce que j'utiliserai à la place comme structure, pourquoi et quels avantages cela apporte? La réponse ici :_
+
 ## What I want to say :
 
 ### State my way of doing
